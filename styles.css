@@ -1,0 +1,11 @@
+/* Styles for mobile devices */
+.container {
+    padding: 20px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    /* Styles for larger screens */
+    .container {
+      padding: 40px;
+    }
+  }
