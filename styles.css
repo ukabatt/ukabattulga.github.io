@@ -90,7 +90,6 @@ ul li a:hover {
 
 .section {
   background-color: var(--extra-light);
-  margin-right: 10px;
 }
 
 .section__container {
@@ -142,7 +141,7 @@ ul li a:hover {
 .image {
   display: grid;
   place-items: center;
-  margin-left: -50px;
+  margin-left: -75px;
 }
 
 .image img {
