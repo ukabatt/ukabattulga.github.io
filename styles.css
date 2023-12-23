@@ -108,7 +108,7 @@ ul li a:hover {
   min-height: 100vh;
   margin: auto;
   padding: 1rem;
-  grid-column-gap: 4rem;
+  /*grid-column-gap: 4rem;*/
 }
 
 .content_thoughts {
