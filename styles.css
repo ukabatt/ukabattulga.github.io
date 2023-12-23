@@ -106,7 +106,8 @@ ul li a:hover {
   min-height: 100vh;
   max-width: var(--max-width);
   margin: auto;
-  padding: 10rem 2rem;
+  padding: 2rem;
+  padding-top: 2rem
 }
 
 .content {
