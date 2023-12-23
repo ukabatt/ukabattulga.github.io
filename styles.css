@@ -96,7 +96,7 @@ ul li a:hover {
   min-height: 100vh;
   max-width: var(--max-width);
   margin: auto;
-  padding: 3rem;
+  padding: 5rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
