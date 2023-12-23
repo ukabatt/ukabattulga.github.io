@@ -99,7 +99,7 @@ ul li a:hover {
   padding: 2rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 4rem;
+  gap: 3rem;
 }
 
 .section__container_thoughts {
