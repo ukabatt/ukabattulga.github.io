@@ -109,6 +109,11 @@ ul li a:hover {
   padding: 5rem;
 }
 
+.highlight {
+  border: 2px solid black;
+  padding: 5px;
+}
+
 .content {
   display: flex;
   flex-direction: column;
