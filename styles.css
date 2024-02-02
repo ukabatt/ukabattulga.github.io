@@ -91,6 +91,7 @@ ul li a:hover {
 .squiggly {
   text-decoration: underline;
   text-decoration-style: wavy;
+  text-decoration-color: #E6A298
 }
 
 .section {
