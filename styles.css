@@ -88,6 +88,11 @@ ul li a:hover {
   color: var(--secondary-color);
 }
 
+.squiggly {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
 .section {
   background-color: var(--extra-light);
 }
