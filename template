@@ -1,3 +1,5 @@
+<!-- this file is a template -->
+<!--
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -31,11 +33,9 @@
     </nav>
     <section class="section">
       <div class="section__container_thoughts">
-        <h2 style="text-decoration: underline; text-decoration-color: #000000; text-decoration-style: wavy">thoughts</h2>
-        <h1><a href="thoughts/goodbye.html"> goodbye</a></h1>
         <div class="content">
           <p class="description">
-            3 February 2024
+            TBD :)
           </p>
         </div>
       </div>
@@ -44,3 +44,5 @@
   &copy; Uka Battulga 2024
   <br>
 </html>
+
+-->
