@@ -88,10 +88,11 @@ ul li a:hover {
   color: var(--secondary-color);
 }
 
-.squiggly {
-  text-decoration: underline;
-  text-decoration-style: wavy;
-  text-decoration-color: #E6A298
+.vertical-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
 }
 
 .section {
