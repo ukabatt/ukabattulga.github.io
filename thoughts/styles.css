@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
-  --primary-color: #436b1ffd;
-  --primary-color-dark: #426B1F;
-  --secondary-color: #426B1F;
+  --primary-color: #F18F01;
+  --primary-color-dark: #F18F01;
+  --secondary-color: #F18F01;
   --text-dark: #1f2937;
   --text-light: #6b7280;
   --extra-light: #ffffff;
@@ -22,7 +22,7 @@ a {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #F5ECD7;
+  background-color: #ebe2cd;
 }
 
 nav {
