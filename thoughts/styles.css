@@ -208,18 +208,4 @@ ul li a:hover {
   }
 }
 
-a:link{
-  color:blue;
-}
-a:visited{
-  color:blue;
-}
-a:hover{
-  color:blue;
-}
-a:focus{
-  color:blue;
-}
-a:active{
-  color:blue;
-}
+
