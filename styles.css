@@ -6,7 +6,7 @@
   --secondary-color: #F18F01;
   --text-dark: #1f2937;
   --text-light: #6b7280;
-  --extra-light: #ffffff;
+  --extra-light: #F5ECD7;
   --max-width: 1200px;
 }
 
@@ -22,7 +22,7 @@ a {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #ebe2cd;
+  background-color: #F5ECD7;
 }
 
 nav {
@@ -30,7 +30,7 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #ffffff;
+  background-color: #F5ECD7;
   z-index: 99;
 }
 
