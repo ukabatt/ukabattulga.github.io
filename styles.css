@@ -37,7 +37,7 @@ nav {
 .nav__content {
   max-width: var(--max-width);
   margin: auto;
-  padding: 1.5rem 1rem;
+  padding: 1.5rem 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -76,7 +76,7 @@ ul {
 }
 
 ul li a {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 2rem;
   border: 2px solid transparent;
   text-decoration: none;
   font-weight: 600;
@@ -98,7 +98,6 @@ ul li a:hover {
   max-width: var(--max-width);
   margin: auto;
   padding: 2rem;
-    /* note to self: padding was 1 before yesterday */
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 4rem;
