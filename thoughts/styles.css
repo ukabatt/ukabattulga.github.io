@@ -97,7 +97,7 @@ ul li a:hover {
   min-height: 100vh;
   max-width: var(--max-width);
   margin: auto;
-  padding: 2rem;
+  padding: 5rem 2rem;
     /* note to self: padding was 1 before yesterday */
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -108,7 +108,7 @@ ul li a:hover {
   min-height: 100vh;
   max-width: var(--max-width);
   margin: auto;
-  padding: 2rem;
+  padding: 5rem 2rem;
 }
 
 .highlight {
