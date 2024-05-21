@@ -166,6 +166,11 @@ ul li a:hover {
   width: min(25rem, 100%);
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 @media (width < 750px) {
   nav .checkbox {
     display: block;
