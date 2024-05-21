@@ -181,7 +181,7 @@ ul li a:hover {
     background-color: var(--extra-light);
     flex-direction: column;
     justify-content: center;
-    gap: 3rem;
+    gap: 2rem;
   }
 
   nav #check:checked ~ ul {
