@@ -70,7 +70,8 @@ nav .checkbox i {
 ul {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  /* gap: 1rem; */
+  gap: 0px;
   list-style: none;
   transition: left 0.3s;
 }
